@@ -1,6 +1,6 @@
 # Notezy
 Notezy is an open sourced Note making webapp.
-![]images/Notezy-Screenshot
+![]images/Notezy-Screenshot.png
 link: http://notezy.surge.sh/
 ## Getting Started
 Following instructions will fetch you a copy of the project and running on your local machine for development and testing.
